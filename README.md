@@ -16,6 +16,6 @@ ex. seunzu :
 ```
 
 ## Reference
--[바킹독 basic-algo-lecture](https://github.com/encrypted-def/basic-algo-lecture)<br>
--[바킹독 워크북 리드미(풀어야하는 문제 표시됨)](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md) <br>
+- [바킹독 basic-algo-lecture](https://github.com/encrypted-def/basic-algo-lecture)
+- [바킹독 워크북 리드미](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md)
 - https://www.acmicpc.net/problem/[문제번호]  <br>
