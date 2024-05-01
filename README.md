@@ -15,7 +15,7 @@
 ### Commit Convention
 ```
 이름 : 
-ex. seunzu :
+ex. seunzu : 배열 BOJ
 ```
 
 ## Reference
