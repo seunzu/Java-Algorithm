@@ -11,9 +11,8 @@ public class BOJ2577_숫자의개수 {
 
         // 0 ~ 9까지 숫자 개수 저장
         int[] cnt = new int[10];
-        for (int j = 0; j < str.length(); j++) {
-            // 문자 -> 정수
-            cnt[str.charAt(j) - '0']++;
+        for (int i = 0; i < str.length(); i++) {
+            cnt[str.charAt(i) - '0']++; // 문자 -> 정수
         }
 
         for (int i = 0; i < cnt.length; i++) {
